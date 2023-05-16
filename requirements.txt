@@ -5,5 +5,5 @@ dash-core-components==2.0.0
 dash-html-components==2.0.0
 gunicorn==20.1.0
 numpy==1.21.4
-pandas @ file:///C:/ci/pandas_1635506685681/work
+pandas==2.0.1
 plotly==5.14.1
